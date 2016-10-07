@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1475803267313">{:repl-history {:ide [], :local [&quot;(hangman/jogo 5 \&quot;CAR\&quot; #{\&quot;C\&quot; \&quot;A\&quot;})&quot; &quot;(require '[hangman.core :as hangman] :reload)&quot; &quot;C&quot; &quot;A&quot; &quot;R&quot; &quot;(hangman/jogo 5 \&quot;CAR\&quot; #{})&quot; &quot;bases&quot; &quot;sa&quot; &quot;accessor&quot;], :remote []}}</component>
+</project>
